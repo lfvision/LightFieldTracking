@@ -6,8 +6,6 @@
 ## 🎃 Overview
 The code will be released soon.
 ## 🎃 Data
-[[R8TRACK](https://pan.baidu.com/s/1sv5nDuY2rOaDlMWHyDdnVg?pwd=TJUT)] pwd: TJUT
+> [1] The dataset we collected with the R8 light field camera: [[R8TRACK](https://pan.baidu.com/s/1sv5nDuY2rOaDlMWHyDdnVg?pwd=TJUT)] pwd: TJUT
 
-[[Light field video dataset captured by a R8 Raytrix camera]](http://clim.inria.fr/Datasets/RaytrixR8Dataset-5x5/index.html)
-
-
+> [1] The publicly available light field videos captured using the R8 camera can be found [here](http://clim.inria.fr/Datasets/RaytrixR8Dataset-5x5/index.html). The JSON files generated through our post-processing are available [here].
