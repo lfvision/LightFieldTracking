@@ -1,6 +1,6 @@
 # LightFieldTracking
-## [1] Visual object tracking based on light-field imaging in the presence of similar distractors (TII)
-## [2] Light Field Collaborative Perception for Visual Object Tracking (Under Review PR)
+> [1] Visual object tracking based on light-field imaging in the presence of similar distractors (TII)
+> [2] Light Field Collaborative Perception for Visual Object Tracking (Under Review PR)
 
 
 ## 🎃 Overview
