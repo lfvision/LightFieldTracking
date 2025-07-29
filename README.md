@@ -7,7 +7,7 @@ Learning Angular-Temporal Correlations for Light Field Object Tracking in Low-Li
 
 > [3] **R8LUT**: [[R8LUT](https://pan.baidu.com/s/1s_bZPm8k31SdTdC5XIYWLw?pwd=TJUT)], pwd: TJUT.
 
-🎃 Citation
+## 🎃 Citation
 If you use light field tracking in your research, please use the following BibTeX entry.
 ```bash
 @article{wang2022visual,
