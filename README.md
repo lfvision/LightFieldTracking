@@ -1,7 +1,5 @@
 # LightFieldTracking
 
-% ## 🎃 Overview
-% The code will be released soon.
 ## 🎃 Data
 > [1] **R8TRACK**: The dataset we collected with the R8 light field camera: [[R8TRACK](https://pan.baidu.com/s/1sv5nDuY2rOaDlMWHyDdnVg?pwd=TJUT)], pwd: TJUT. The 4D light field matrices are packaged and stored in .npy file format.
 
